@@ -1,4 +1,4 @@
-# inception_v4
+# Inception-v4
 
 Implementation of Inception-v4 done with Keras API 2.0
 
